@@ -1,8 +1,0 @@
-certifi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_83242e7e-f82d-4a71-8ef2-9d71d212d249gu_wxmeq/croots/recipe/certifi_1655968827803/work/certifi
-click @ file:///opt/concourse/worker/volumes/live/2d66025a-4d79-47c4-43be-6220928b6c82/volume/click_1646056610594/work
-Flask @ file:///opt/conda/conda-bld/flask_1648041541647/work
-gunicorn==20.1.0
-itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1621432558163/work
-Jinja2 @ file:///opt/conda/conda-bld/jinja2_1647436528585/work
-MarkupSafe==2.1.1
-Werkzeug @ file:///opt/conda/conda-bld/werkzeug_1645628268370/work
